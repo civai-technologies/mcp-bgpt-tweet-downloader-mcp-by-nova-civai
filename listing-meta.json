@@ -1,0 +1,21 @@
+{
+  "slug": "mcp-bgpt-tweet-downloader",
+  "repo": "mcp-bgpt-tweet-downloader-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/mcp-bgpt-tweet-downloader-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "gemini-cli-extension",
+    "bgpt",
+    "tweet",
+    "downloader"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/mcp-bgpt-tweet-downloader"
+}
